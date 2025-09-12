@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <locale.h>
+#include <locale.h> // a
 
 int main (){
     setlocale(LC_ALL, "Portuguese"); // define que o meu sistema será em Português
